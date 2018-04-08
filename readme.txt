@@ -35,3 +35,4 @@ This is feature-one add!
 This is feature-two add!
 
 dev new add
+This is feature-three add
