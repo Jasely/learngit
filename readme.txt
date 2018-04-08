@@ -13,3 +13,4 @@ Create a new master branch is quick AND simple.
 Test git commit -a
 
 Feature plate add
+Feature fix plate bug!
