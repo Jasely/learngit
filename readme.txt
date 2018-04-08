@@ -14,3 +14,6 @@ Test git commit -a
 
 Feature plate add
 Feature fix plate bug!
+
+Feature person add
+Feature fix some bug from person
