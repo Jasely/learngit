@@ -19,3 +19,12 @@ Feature person add
 Feature fix some bug from person
 
 Dev branch add
+This modify is on master branch!
+Hello, this modify is from test_branch!
+
+Do this modify can push to dev branch!
+
+This modify is on local branch!
+This modify from other computer!
+
+GUI test
