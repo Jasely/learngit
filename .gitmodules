@@ -1,0 +1,3 @@
+[submodule "submodule/FirstDemo"]
+	path = submodule/FirstDemo
+	url = https://github.com/Jasely/FirstDemo.git
